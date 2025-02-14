@@ -5,3 +5,4 @@ void main()
 	prinf("addition :%d", a+b);
 printf ("sub:%d",a-b);
 prinf("addition :%d", a+b);
+printf("multi:%d",a*b);
