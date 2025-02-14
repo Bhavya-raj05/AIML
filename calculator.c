@@ -4,4 +4,4 @@ void main()
 	int b = 7;
 	prinf("addition :%d", a+b);
 printf ("sub:%d",a-b);
-
+prinf("addition :%d", a+b);
