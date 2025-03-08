@@ -25,3 +25,20 @@ else:
 
 
 This code defines a function is_armstrong_number that takes a number as input and checks if it is an Armstrong number. The example usage checks if 153 is an Armstrong number and prints the result. Feel free to test it with other numbers!
+
+
+
+Sure! Here is a simple Python code snippet to add two numbers:
+
+# Function to add two numbers
+def add_numbers(a, b):
+    return a + b
+
+# Example usage
+num1 = 5
+num2 = 3
+result = add_numbers(num1, num2)
+print(f"The sum of {num1} and {num2} is {result}")
+
+
+This code defines a function add_numbers that takes two arguments and returns their sum. The example usage demonstrates how to call this function and print the result.
